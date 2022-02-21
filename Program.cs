@@ -1,7 +1,5 @@
-﻿using System;
-using _n = Nanoid.Nanoid;
+﻿using _n = Nanoid.Nanoid;
 using TextCopy;
-
 
 namespace short_id_gen
 {

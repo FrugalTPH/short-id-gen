@@ -14,3 +14,4 @@ D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.csproj.Cop
 D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.dll
 D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.pdb
 D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.genruntimeconfig.cache
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.csprojAssemblyReference.cache
