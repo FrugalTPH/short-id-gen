@@ -1,0 +1,16 @@
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.exe
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.deps.json
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.runtimeconfig.json
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.runtimeconfig.dev.json
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.dll
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\short-id-gen.pdb
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\Nanoid.dll
+D:\Dropbox\GitHub\short-id-gen\bin\Release\netcoreapp3.1\TextCopy.dll
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.AssemblyInfoInputs.cache
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.AssemblyInfo.cs
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.csproj.CoreCompileInputs.cache
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.csproj.CopyComplete
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.dll
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.pdb
+D:\Dropbox\GitHub\short-id-gen\obj\Release\netcoreapp3.1\short-id-gen.genruntimeconfig.cache
